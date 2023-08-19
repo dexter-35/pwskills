@@ -1,2 +1,2 @@
 # pwskills
-assignments for data science
+assignments for data science PWSkills
